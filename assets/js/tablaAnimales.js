@@ -12,7 +12,7 @@ import {
 
 import {
     sonidosAnimales
-} from "./sonidoAnimales.js";
+} from "./sonidosAnimales.js";
 
 export let instancias = [];
 
